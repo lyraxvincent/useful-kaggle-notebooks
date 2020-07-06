@@ -1,3 +1,9 @@
+**NOTE:**  
+
+- This is not my work. A big thank you to the authors of the notebooks provided. A link to every notebook is provided below. If you find their work useful please spare a little of your time and click on the link to the specific notebook(s) and upvote their work.  
+- I add the notebooks as I come across them in my every day process of learning. So there are still a bunch of more useful notebooks out there!
+
+
 # NLP
 
 -----
@@ -21,5 +27,5 @@
 
 -------
 
-- [Mr steller (Prohack hackathon)](https://www.kaggle.com/adakibet/mr-steller-prohack-hackathon)
+- [Mr Steller (Prohack hackathon)](https://www.kaggle.com/adakibet/mr-steller-prohack-hackathon)
 
