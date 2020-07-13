@@ -23,9 +23,18 @@
 
 
 
+# Competition winnings
+
+-------
+
+- [Solution_for_the_Womxn_in_Big_Data_South_Africa_competition](https://www.linkedin.com/in/lucillekaleha/)
+- [Mr Steller (Prohack hackathon)](https://www.kaggle.com/adakibet/mr-steller-prohack-hackathon)
+
+
+
 # Other
 
 -------
 
-- [Mr Steller (Prohack hackathon)](https://www.kaggle.com/adakibet/mr-steller-prohack-hackathon)
+- [Retrieve coordinates from location name](https://www.linkedin.com/in/muthomi-ted/)
 
