@@ -32,6 +32,13 @@
 
 
 
+# Deep Learning
+
+---------------
+
+- [Introduction to Pytorch (a very gentle start)](https://www.kaggle.com/frtgnn/introduction-to-pytorch-a-very-gentle-start)
+
+
 # Other
 
 -------
