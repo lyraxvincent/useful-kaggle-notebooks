@@ -20,6 +20,7 @@
 ---------------------
 
 - [Feature Engineering - A Comprehensive Tutorial](https://www.kaggle.com/pavansanagapati/feature-engineering-a-comprehensive-tutorial)
+- [feature selection tutorial](https://www.kaggle.com/jonas0/feature-selection-tutorial)
 
 
 
