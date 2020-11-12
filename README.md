@@ -37,8 +37,17 @@
 # Deep Learning
 
 ---------------
+
 - [Intro to Keras with breast cancer data[ANN]](https://www.kaggle.com/thebrownviking20/intro-to-keras-with-breast-cancer-data-ann)
 - [Introduction to Pytorch (a very gentle start)](https://www.kaggle.com/frtgnn/introduction-to-pytorch-a-very-gentle-start)
+
+
+
+# DS and ML in general
+
+----------------------
+
+- [A Guide to Handling Missing values in Python](https://www.kaggle.com/parulpandey/a-guide-to-handling-missing-values-in-python)
 
 
 # Other
