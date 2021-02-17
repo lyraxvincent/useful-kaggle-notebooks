@@ -13,7 +13,9 @@
 - [getting started with text preprocessing](https://www.kaggle.com/sudalairajkumar/getting-started-with-text-preprocessing)
 - [nlp with disaster tweets eda cleaning and bert](https://www.kaggle.com/gunesevitan/nlp-with-disaster-tweets-eda-cleaning-and-bert)
 - [RoBerta meets TPUs](https://www.kaggle.com/yassinealouini/roberta-meets-tpus)
-
+- [Text classification with CatBoost]()
+  - [Text classification with catboost](https://www.kaggle.com/shashaalam/text-classification-with-catboost)
+  - [CatBoost with text feature](https://www.kaggle.com/sishihara/catboost-with-text-feature)
 
 # Feature Engineering
 
