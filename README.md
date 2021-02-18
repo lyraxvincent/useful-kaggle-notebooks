@@ -31,8 +31,8 @@
 
 -------
 
-- [Solution_for_the_Womxn_in_Big_Data_South_Africa_competition](https://www.linkedin.com/in/lucillekaleha/)
-- [Mr Steller (Prohack hackathon)](https://www.kaggle.com/adakibet/mr-steller-prohack-hackathon)
+- [Solution_for_the_Womxn_in_Big_Data_South_Africa_competition(Regression/stacking/bagging)](https://www.linkedin.com/in/lucillekaleha/)
+- [Mr Steller - Prohack hackathon(Regression + Optimization)](https://www.kaggle.com/adakibet/mr-steller-prohack-hackathon)
 
 
 
