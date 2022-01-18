@@ -45,6 +45,14 @@
 
 
 
+# Time Series
+
+-------------
+
+- [TPS2201_Hybrid_Time_Series](https://www.kaggle.com/teckmengwong/tps2201-hybrid-time-series)
+
+
+
 # DS and ML in general
 
 ----------------------
