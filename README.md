@@ -65,4 +65,7 @@
 -------
 
 - [Retrieve coordinates from location name](https://www.linkedin.com/in/muthomi-ted/)
+- [Tuning Hyperparameters with Optuna.](https://www.kaggle.com/santiagovaldarrama/30-days-of-ml-stacked-ensembles)
+
+
 
