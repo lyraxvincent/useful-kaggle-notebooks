@@ -1,7 +1,7 @@
 **NOTE:**  
 
 - This is not my work. A big thank you to the authors of the notebooks provided. A link to every notebook is provided below. If you find their work useful please spare a little of your time and click on the link to the specific notebook(s) and upvote their work.  
-- I add the notebooks as I come across them in my every day process of learning. So there are still a bunch of more useful notebooks out there!
+- This is a small list of the resourceful notebooks I personally have come across. There are still a bunch of more useful notebooks out there!
 
 
 # NLP
@@ -50,6 +50,7 @@
 -------------
 
 - [TPS2201_Hybrid_Time_Series](https://www.kaggle.com/teckmengwong/tps2201-hybrid-time-series)
+- [Complete Guide on Time Series Analysis in Python](https://www.kaggle.com/code/prashant111/complete-guide-on-time-series-analysis-in-python)
 
 
 
